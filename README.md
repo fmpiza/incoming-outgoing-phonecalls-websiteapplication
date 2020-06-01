@@ -15,7 +15,6 @@ TECHNOLOGIES USED ARE:
 
 ![webcalls - Google Chrome 6_1_2020 2_38_56 PM](https://user-images.githubusercontent.com/52234785/83407050-9c7f9a00-a418-11ea-83bf-1e00f04b4f4e.gif)
 
-![webcalls - Google Chrome 6_1_2020 2_38_56 PM](https://user-images.githubusercontent.com/52234785/83407050-9c7f9a00-a418-11ea-83bf-1e00f04b4f4e.gif)
 ![webcalls - Google Chrome 6_1_2020 3_03_51 PM](https://user-images.githubusercontent.com/52234785/83407802-254b0580-a41a-11ea-8ef7-079cd15b3b8a.gif)
 
 
