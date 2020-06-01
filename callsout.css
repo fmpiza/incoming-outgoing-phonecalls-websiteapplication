@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: opx;
+    padding: 0px;
+    text-align: center;
+    
+}
+
+header {
+    padding: 25px;
+    background-image: url('phoneee.jpg');
+    background-size: 1400px 300px;
+    color: white;
+    border-bottom: 2px solid black;
+    font-style: oblique;   
+} 
+
+footer {
+    padding: 2px;
+    background: black;
+    color: white;
+}

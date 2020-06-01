@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: opx;
+    padding: 0px;
+    text-align: center;
+    
+}
+
+header {
+    padding: 25px;
+    background: #410622;
+    color: white;
+    border-bottom: 2px solid white;
+    font-style: oblique;   
+} 
+
+footer {
+    padding: 2px;
+    background: #410622;
+    color: white;
+}
