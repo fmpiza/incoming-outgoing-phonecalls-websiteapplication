@@ -7,6 +7,9 @@ It is a website application which can make both outgoing and incoming mobile pho
 - The system can give a privilege to users on credential details such as their login passwords and other details such as a country of residence and user's email for instant notification on service.
 - Also the system can store customer phone numbers on the database for further uses.
 
+NB:
+Both out and inbond calls are going to be made at a very least cost especially on client side ( third party) of the system.
+
 TECHNOLOGIES USED ARE:
 - JSP with IVR (Interactive Voice Response) system
 - HTML, CSS and Oracle database
@@ -16,6 +19,9 @@ TECHNOLOGIES USED ARE:
 ![webcalls - Google Chrome 6_1_2020 2_38_56 PM](https://user-images.githubusercontent.com/52234785/83407050-9c7f9a00-a418-11ea-83bf-1e00f04b4f4e.gif)
 
 ![webcalls - Google Chrome 6_1_2020 3_03_51 PM](https://user-images.githubusercontent.com/52234785/83407802-254b0580-a41a-11ea-8ef7-079cd15b3b8a.gif)
+
+![Call 2020-06-11 15-50-39](https://user-images.githubusercontent.com/52234785/84659614-5b12e280-af20-11ea-9ef9-49503bfa76de.gif)
+
 
 
 
