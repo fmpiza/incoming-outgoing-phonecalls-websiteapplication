@@ -9,6 +9,7 @@ It is a website application which can make both outgoing and incoming mobile pho
 
 NB:
 Both out and inbond calls are going to be made at a very least cost especially on client side ( third party) of the system.
+Also, a system user can make both in and outbound phone calls nationally and internationally country codes.
 
 TECHNOLOGIES USED ARE:
 - JSP with IVR (Interactive Voice Response) system
